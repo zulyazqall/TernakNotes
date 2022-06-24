@@ -1,0 +1,2 @@
+# TernakNotes
+Catatan Peternak
