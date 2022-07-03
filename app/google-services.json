@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562844794057",
+    "project_id": "ternaknotes",
+    "storage_bucket": "ternaknotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562844794057:android:089c65d3215a52a8342118",
+        "android_client_info": {
+          "package_name": "com.aza.ternaknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562844794057-oqre693mjfok2odu2iuinh14fgatke7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aza.ternaknotes",
+            "certificate_hash": "76f86839822999a4608a13b315ebc174aab28336"
+          }
+        },
+        {
+          "client_id": "562844794057-rkqc66evfgrngoel064fvuvnc47kkavn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNdMDbR_RfXpr0mO_53jZSqEMt0k3II8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562844794057-rkqc66evfgrngoel064fvuvnc47kkavn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
